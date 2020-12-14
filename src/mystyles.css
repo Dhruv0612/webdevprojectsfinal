@@ -1,0 +1,13 @@
+.search-bar{
+    padding: 25px;
+    font-size: large;
+    background-color: rgb(141, 179, 212);
+    float: none;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    margin-bottom: 16px;
+    height: 50 px;
+}
+
